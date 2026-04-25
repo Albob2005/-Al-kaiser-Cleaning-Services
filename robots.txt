@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://albob2005.github.io/-Al-kaiser-Cleaning-Services/sitemap.xml
